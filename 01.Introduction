@@ -1,0 +1,8 @@
+HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies used to create web pages.
+HTML is used to define the structure and content of a web page, while CSS is used to style the page and control its presentation.
+
+HTML is a markup language,which means that it uses tags to define the different elements of a web page,
+such as headings, paragraphs, images, and links.
+
+CSS is a style sheet language, which means that it is used to define the appearance of a web page. 
+CSS can be used to control things like the font family, font size, font color, background color, and layout of a web page.
