@@ -23,7 +23,9 @@ HTML elements:
 
 <ul> and <ol>: Unordered and ordered list elements, used to create lists of items.
 
-<table>: Table element, used to create tables.
+<table>: Table element, used to create tables.\
+
+<br>: Break element,when used to break a line into two.
 
 CSS elements:
 body: Selects the body element of an HTML document.
