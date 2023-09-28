@@ -1,0 +1,62 @@
+CSS (Cascading Style Sheets) allows you to apply various styles to text on a web page.
+Here are some common CSS text styling properties and their descriptions:
+
+1.Font Properties:
+font-family: Specifies the typeface or font for the text.
+font-size: Sets the size of the font.
+font-weight: Defines the thickness of the characters (e.g., bold, normal).
+font-style: Specifies the style of the font (e.g., italic, normal).
+font-variant: Controls the usage of small caps or normal font.
+font-stretch: Adjusts the width of the font.
+line-height: Sets the height of a line of text.
+
+2.text color
+3.text align
+P{
+text_align: center;
+}
+
+4.Text Decoration:
+text-decoration: Adds decorations like underline, overline, or line-through to text.
+text-decoration-line: Specifies the type of text decoration.
+text-decoration-color: Sets the color of the text decoration.
+text-decoration-style: Sets the style of the text decoration.
+
+5.Text Transformation:
+text-transform: Controls the capitalization of text (uppercase, lowercase, capitalize).
+h1 {
+  text-transform: uppercase;
+}
+
+6.Letter Spacing and Word Spacing:
+letter-spacing: Adjusts the space between characters.
+word-spacing: Sets the space between words.
+p {
+  letter-spacing: 2px;
+  word-spacing: 5px;
+}
+
+7.Text Shadow:
+text-shadow: Adds a shadow to text.
+It takes values for horizontal and vertical offsets, blur radius, and shadow color.
+h2 {
+  text-shadow: 2px 2px 4px #888;
+}
+
+8.Line Spacing:
+line-height: Sets the height of a line of text, which can affect spacing between lines.
+p {
+  line-height: 1.5;
+}
+
+9.Text Overflow:
+overflow: Controls how text overflows its container (e.g., hidden, scroll).
+div {
+  overflow: hidden;
+}
+
+10.Text Wrapping:**
+   - `white-space`: Specifies how white space within text is handled (e.g., nowrap, normal).
+p {
+  white-space: nowrap;
+}
