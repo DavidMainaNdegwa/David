@@ -12,3 +12,9 @@ type="text/css": This attribute specifies the type of the linked resource. In th
 
 href="styles.css": This attribute specifies the path to the CSS file you want to link to. 
 Make sure to replace "styles.css" with the actual filename and path to your CSS file.
+
+The title attribute is used for providing additional information about the element when a user hovers their mouse pointer over it.
+
+In HTML, the <a> element is used to create hyperlinks, also known as anchor links. 
+Hyperlinks are clickable elements that allow users to navigate to other web pages, 
+resources, or locations within the same page. Here's how you use the <a> element:
