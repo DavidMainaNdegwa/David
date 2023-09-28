@@ -1,0 +1,14 @@
+In your HTML document (index.html), within the <head> section (usually located between the <head> and </head> tags), 
+add the following line:
+
+<link rel="stylesheet" href="style.css">
+
+<link>: This is an HTML element used to link external resources to your HTML document.
+
+rel="stylesheet": This attribute specifies the relationship between the HTML document and the linked resource. 
+In this case, it indicates that you are linking a stylesheet.
+
+type="text/css": This attribute specifies the type of the linked resource. In this case, it's a CSS file, so it's set to "text/css."
+
+href="styles.css": This attribute specifies the path to the CSS file you want to link to. 
+Make sure to replace "styles.css" with the actual filename and path to your CSS file.
