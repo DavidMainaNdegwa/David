@@ -1,0 +1,35 @@
+Classes and IDs in HTML
+
+Classes and IDs are attributes that can be added to HTML elements to identify them and apply CSS styles or JavaScript functionality.
+
+Classes can be applied to multiple elements on a page. 
+For example, you could have a class called .button that you apply to all of the buttons on your page. 
+This would allow you to style all of your buttons in the same way with a single CSS rule.
+
+IDs must be unique on a page. This means that only one element can have a particular ID.
+IDs are often used to identify specific elements on a page, such as a header, footer, or main content area.
+They can also be used to create anchors that allow users to jump to specific sections of a page.
+
+SYNTAX
+class
+<p class="button">This is a button.</p>
+
+ID's  
+<h1 id="header">This is the header.</h1>
+
+Styling and Scripting
+Once you have added classes and IDs to your HTML elements, you can use them to apply CSS styles and JavaScript functionality.
+
+1.CLASS
+.button {
+  background-color: red;
+}
+
+2.ID's
+#header {
+  color: blue;
+}
+
+Best Practices
+-Use classes to group elements together that share the same styles or functionality.
+-Use IDs to uniquely identify specific elements on a page.
