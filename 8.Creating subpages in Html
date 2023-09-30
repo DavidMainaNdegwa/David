@@ -1,0 +1,15 @@
+To create subpages in HTML, you need to create new HTML files and then link to them from your main HTML file.
+
+To create a new subpage:
+
+Create a new HTML file in the same folder as your main HTML file.
+Give the new file a unique name.
+Open the new file in your HTML editor and add the necessary HTML code.
+Save the file.
+To link to a subpage from your main HTML file:
+
+Open your main HTML file in your HTML editor.
+Add an anchor tag (<a>) to the page where you want to link to the subpage.
+Set the href attribute of the anchor tag to the filename of the subpage.
+Add the text for the link inside the anchor tag.
+Save the file.
