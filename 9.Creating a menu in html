@@ -1,0 +1,14 @@
+To create a menu in HTML, you can use the following steps:
+
+Create an unordered list (<ul>) element.
+Add list items (<li>) to the list, one for each item in your menu.
+Add anchor tags (<a>) to the list items, with the href attribute set to the URL of the corresponding page.
+Add the text for the menu items inside the anchor tags.
+Place the unordered list element where you want the menu to appear on your page.
+
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="about.html">About</a></li>
+  <li><a href="contact.html">Contact</a></li>
+</ul>
+
