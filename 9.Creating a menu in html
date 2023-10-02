@@ -6,9 +6,14 @@ Add anchor tags (<a>) to the list items, with the href attribute set to the URL 
 Add the text for the menu items inside the anchor tags.
 Place the unordered list element where you want the menu to appear on your page.
 
+<nav>
 <ul>
   <li><a href="index.html">Home</a></li>
   <li><a href="about.html">About</a></li>
   <li><a href="contact.html">Contact</a></li>
 </ul>
+</nav>
 
+<nav> element in html is used to define a section of a webpage that contains navigation links.
+-It is typically used to create a navigation menu or bar that helps users to navigate through
+different sections or pages of a website.
