@@ -1,0 +1,51 @@
+ 1.Max-width: The max-width property is used to set the maximum width for an element.
+ It specifies the maximum width an element can have, regardless of its content or the size of its parent container. 
+
+ 2.Min-width: The min-width property is used to set the minimum width for an element. 
+ It specifies the minimum width an element should have, regardless of its content or the size of its parent container. 
+
+ 3.Border-Width: The border-width property allows you to specify the thickness of each side of the border (top, right, bottom, left)
+ independently,or you can set a single value to apply the same width to all sides.
+
+ 4.Stroke-width: The stroke-width property in CSS is used to set the thickness of the stroke on a shape. 
+ It is similar to the border-width property, but it is specifically for shapes.
+
+The stroke-width property can be used on any SVG shape, including:
+<circle> <ellipse> <line> <path> <polygon> <polyline> <rect> <text> <textPath> <tref> <tspan>
+
+5.Column-Width: The column-width CSS property specifies the ideal width for columns in a multi-column layout. The browser will try to 
+fit as many columns as possible into the available space, while ensuring that each column is at least as wide as the column-width value.
+
+6.Scrollbar-Width: The scroll bar width is the width of the vertical or horizontal scroll bar that appears when the content of an element 
+overflows its container. The scroll bar width is typically controlled by the operating system or browser, but it can 
+also be customized using CSS.
+
+auto: This is the default value, and it tells the browser to use the default scroll bar width for the operating system.
+thin: This tells the browser to use a thinner scroll bar.
+none: This tells the browser to hide the scroll bar completely.
+
+7.Border-top-Width: The border-top-width CSS property sets the width of the top border of an element. 
+
+8.Border-left-Width: The border-left-width CSS property sets the width of the left border of an element.
+
+9.Column-rule-Width: The column-rule-width CSS property sets the width of the line drawn between columns in a multi-column layout.
+-The default value for the column-rule-width property is medium. This means that the line will be drawn using the browser's 
+default medium thickness.
+
+-You can also use the column-rule-width property to create different effects.
+For example, you could use it to create a dashed or dotted line between columns.
+
+10.Mask-border-Width:The mask-border-width CSS property specifies the width of the mask border of an element. 
+
+The mask-border-width property is used in conjunction with the mask-border-source property to create a mask border around an element. 
+The mask-border-source property specifies the image that will be used as the mask.
+
+11.Moz-column-width: CSS property is a non-standard property that was used by Mozilla Firefox to specify the ideal width
+for columns in a multi-column layout.It has been deprecated in Firefox since version 53 and is no longer supported.
+
+12.border-right-width: The border-right-width CSS property specifies the width of the right border of an element.
+
+13.border-block-width: The border-block-width CSS property specifies the width of the logical block borders of an element,
+which maps to a physical border width depending on the element'swriting mode, directionality, and text orientation.
+
+14.
