@@ -1,0 +1,36 @@
+1.<blockgquote> element defines a section that is quoted from another source.
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+
+2.a <q> tag defines a short quotation.
+e.g.
+<p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+
+3.The HTML <abbr> tag defines an abbreaviation or an acroynm,like "HTML","css","Dr.","Mr.","ASAP","ATM".
+e.g.
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+
+4.The HTML <address> tag defines the contact information for the author/owner of a 
+document or an article.
+e.g.
+<address>
+Written by John Doe.<br>
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address>
+
+5.HTML <cite> for Work Title
+The HTML <cite> tag defines the title of a creative work (e.g. a book,a poem,
+a song,a movie,a painting,a sculpture,etc)
+e.g.
+<p><cite>The Scream</cite> by Edvard Munch. Painted in 1893.</p>
+
+6.HTML <bdo> for Bi-Directional Override
+BDO stands for Bi-Directional Override.
+The HTML <bdo> tag is used to override the current text direction:
+e.g.
+<bdo dir="rtl">This text will be written from right to left</bdo>
+
+
+
