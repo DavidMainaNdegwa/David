@@ -1,0 +1,16 @@
+A link does not have to be text. A link can be an image or any other HTML element!
+
+Syntax:
+The HTML <a> tag defines a hyperlink.It has the following syntax:
+<a href = "url" Link text </a>
+
+By default,links will appear as follows in all browsers:
+-An unvisited link is underlined and blue.
+-A visited link is purple.
+-An active link is underlined and red.
+
+The Target Attribute
+_self - Default. Opens the document in the same window/tab as it was clicked
+_blank - Opens the document in a new window or tab
+_parent - Opens the document in the parent frame
+_top - Opens the document in the full body of the window
